@@ -1,0 +1,23 @@
+{
+  "name": "@dodoseal/eosc",
+  "version": "1.0.0",
+  "description": "Communicate with ETC Eos consoles using OSC (Open Sound Control).",
+  "keywords": [
+    "ETC"
+  ],
+  "homepage": "https://github.com/DodoSeal/eosc#readme",
+  "bugs": {
+    "url": "https://github.com/DodoSeal/eosc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DodoSeal/eosc.git"
+  },
+  "license": "GPL-3.0-only",
+  "author": "Max McDaniel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
