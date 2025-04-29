@@ -20,8 +20,20 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 **Major Contributors**
-- <a style="display: flex;" href="https://dodoseal.com">Max McDaniel<img height="30" style="border-radius: 1rem; margin-left: 0.5rem;" src="https://avatars.githubusercontent.com/u/53157397?v=4"></a>
-- <a style="display: flex;" href="https://github.com/MakashiDev">Christian Furr<img height="30" style="border-radius: 1rem; margin-left: 0.5rem;" src="https://avatars.githubusercontent.com/u/53072442?v=4"></a>
+<table>
+    <tr>
+        <th>
+            <a title="Max McDaniel" href="https://dodoseal.com"><img height="60" src="https://avatars.githubusercontent.com/u/53157397?v=4"></a>
+        </th>
+        <th>
+            <a title="Christian Furr" href="https://github.com/makashidev"><img height="60" src="https://avatars.githubusercontent.com/u/53072442?v=4"></a>
+        </th>
+    </tr>
+    <tr>
+        <th>Max McDaniel</th>
+        <th>Christian Furr</th>
+    </tr>
+</table>
 
 ## License
 
